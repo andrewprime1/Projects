@@ -1,5 +1,5 @@
 # Projects
-Yeah, I have no idea what I'm doing...
+Yeah, I have only some idea of what I'm doing...
 
 
 var user = prompt("Do you like turtles? YES or NO").toUpperCase();
