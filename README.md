@@ -1,6 +1,19 @@
 # Projects
 Yeah, I have no idea what I'm doing...
-<html>
-<head>
-I can write in HTML!
-</head>
+
+
+var user = prompt("Do you like turtles? YES or NO").toUpperCase();
+
+switch(user) {
+    case 'YES':
+        console.log("I do too!!!");
+        break;
+    case 'NO':
+        console.log("How can you not?!?");
+        break;
+    case "Maybe":
+        console.log("That wasn't even one of the choices man.")
+        break;
+    default:
+        console.log("That is creative...") 
+}
